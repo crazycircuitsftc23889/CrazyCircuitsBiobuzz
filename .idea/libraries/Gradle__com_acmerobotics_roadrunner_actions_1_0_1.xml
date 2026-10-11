@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.acmerobotics.roadrunner:actions:1.0.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.acmerobotics.roadrunner" artifactId="actions" version="1.0.1" baseVersion="1.0.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.acmerobotics.roadrunner/actions/1.0.1/5b80e77acfe68b587cb29700be0935068097ac8b/actions-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.acmerobotics.roadrunner/actions/1.0.1/9d14b1b9191814b105a13755bad9f6d6c64d9af8/actions-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
