@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CrazyCircuitsBiobuzz.iml" filepath="$PROJECT_DIR$/.idea/CrazyCircuitsBiobuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FtcRobotController/CrazyCircuitsBiobuzz.FtcRobotController.iml" filepath="$PROJECT_DIR$/.idea/modules/FtcRobotController/CrazyCircuitsBiobuzz.FtcRobotController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FtcRobotController/CrazyCircuitsBiobuzz.FtcRobotController.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/FtcRobotController/CrazyCircuitsBiobuzz.FtcRobotController.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FtcRobotController/CrazyCircuitsBiobuzz.FtcRobotController.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FtcRobotController/CrazyCircuitsBiobuzz.FtcRobotController.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FtcRobotController/CrazyCircuitsBiobuzz.FtcRobotController.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/FtcRobotController/CrazyCircuitsBiobuzz.FtcRobotController.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeamCode/CrazyCircuitsBiobuzz.TeamCode.iml" filepath="$PROJECT_DIR$/.idea/modules/TeamCode/CrazyCircuitsBiobuzz.TeamCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeamCode/CrazyCircuitsBiobuzz.TeamCode.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TeamCode/CrazyCircuitsBiobuzz.TeamCode.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeamCode/CrazyCircuitsBiobuzz.TeamCode.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TeamCode/CrazyCircuitsBiobuzz.TeamCode.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeamCode/CrazyCircuitsBiobuzz.TeamCode.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TeamCode/CrazyCircuitsBiobuzz.TeamCode.unitTest.iml" />
+    </modules>
+  </component>
+</project>
